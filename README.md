@@ -1,4 +1,4 @@
-# Examen 2 - Análisis de Algoritmos
+# Examen 2 - Análisis y Diseño de Algoritmos
 
 Repositorio correspondiente a la parte práctica del segundo examen de Análisis de Algoritmos.
 
